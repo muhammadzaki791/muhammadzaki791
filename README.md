@@ -5,7 +5,7 @@
 
 - I’m currently working on [CLI based applications](https://www.npmjs.com/~muhammad_zaki)
 
-- 🌱 I’m currently learning **TypeScript and JavaScript**
+- 🌱 I’m currently learning **React And NextJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammadzaki791](https://github.com/muhammadzaki791)
 
